@@ -1,0 +1,2 @@
+pycord==2.0.0b7
+inflect==5.5.2
